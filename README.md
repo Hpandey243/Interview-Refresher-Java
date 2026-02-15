@@ -10,7 +10,14 @@
 <img width="1490" height="1490" alt="image" src="https://github.com/user-attachments/assets/8bb3467e-5f9d-46e4-866a-2669ff33c14b" />
 <img width="972" height="758" alt="image" src="https://github.com/user-attachments/assets/d441314e-f8f2-49b7-bcd4-244e739784c3" />
 
+Thread Lifecycle
+
 <img width="1180" height="1152" alt="image" src="https://github.com/user-attachments/assets/ed8d59a2-ee1b-4d4e-87b9-a53b9de1c609" />
+<img width="1540" height="1586" alt="image" src="https://github.com/user-attachments/assets/0272ce99-7565-4e04-a2ae-dadb66696736" />
+
+
+
+
 
 
 
