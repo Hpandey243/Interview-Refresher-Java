@@ -20,7 +20,15 @@
 
 <img width="2268" height="1650" alt="image" src="https://github.com/user-attachments/assets/7d935586-06fc-49c1-a6b8-7ab467d91f1a" />
 <img width="2554" height="1640" alt="image" src="https://github.com/user-attachments/assets/a11120f1-aa68-4ffe-8fa6-5d0b811f14cd" />
+DAEMON thread- Low priority thread  running async in  backgoroud. If we create a  new daemon thread, it stops execution as soon as the main thread stops.|
+use case  : JVM has GC as daemon thread running in background, autosave functionality, logging functionality.
+
 ## LOCKS
+Why custom Locks?
+ synchronised methods puts lock at object level. synchronised add(), what if we have different object and we want that only one thread runs the critical section.
+
+We can use custom Locks and there locks does not depend on objects. It depends on lock object.
+
 <img width="3378" height="1626" alt="image" src="https://github.com/user-attachments/assets/46752842-2fe0-414e-b9dc-92f35307a47d" />
 <img width="2666" height="1552" alt="image" src="https://github.com/user-attachments/assets/310680a7-f556-4d2f-bd42-b2f6198a3ae2" />
 <img width="2434" height="1678" alt="image" src="https://github.com/user-attachments/assets/a03e54f9-fe20-41d1-8d6a-deb14ae5d634" />
