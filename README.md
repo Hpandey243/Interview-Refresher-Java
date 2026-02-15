@@ -1,4 +1,4 @@
-# Multithreading Concept coding
+# Multithreading Concepts
 <img width="1882" height="1552" alt="image" src="https://github.com/user-attachments/assets/f6c8258c-4963-4614-ad0f-0cb4b90efbc0" />
 <img width="1392" height="900" alt="image" src="https://github.com/user-attachments/assets/aaba715b-c340-4a8c-af84-0ccc0d973eda" />
 <img width="2240" height="1148" alt="image" src="https://github.com/user-attachments/assets/d9d52838-71a3-4bc9-bad5-dead9fee608f" />
