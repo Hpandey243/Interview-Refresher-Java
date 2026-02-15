@@ -20,6 +20,14 @@
 
 <img width="2268" height="1650" alt="image" src="https://github.com/user-attachments/assets/7d935586-06fc-49c1-a6b8-7ab467d91f1a" />
 <img width="2554" height="1640" alt="image" src="https://github.com/user-attachments/assets/a11120f1-aa68-4ffe-8fa6-5d0b811f14cd" />
+## LOCKS
+<img width="3378" height="1626" alt="image" src="https://github.com/user-attachments/assets/46752842-2fe0-414e-b9dc-92f35307a47d" />
+<img width="2666" height="1552" alt="image" src="https://github.com/user-attachments/assets/310680a7-f556-4d2f-bd42-b2f6198a3ae2" />
+<img width="2434" height="1678" alt="image" src="https://github.com/user-attachments/assets/a03e54f9-fe20-41d1-8d6a-deb14ae5d634" />
+<img width="2380" height="1576" alt="image" src="https://github.com/user-attachments/assets/f240b23f-a995-4c60-a718-2fab3d91873e" />
+<img width="2720" height="1346" alt="image" src="https://github.com/user-attachments/assets/9b532bbb-3297-4f2e-aa9d-513087bb1a0c" />
+<img width="1398" height="530" alt="image" src="https://github.com/user-attachments/assets/65285342-9355-441a-9fe9-70aeab7c29af" />
+
 
 
 
