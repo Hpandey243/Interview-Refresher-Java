@@ -33,6 +33,7 @@ We can use custom Locks and there locks does not depend on objects. It depends o
 <img width="2666" height="1552" alt="image" src="https://github.com/user-attachments/assets/310680a7-f556-4d2f-bd42-b2f6198a3ae2" />
 <img width="2434" height="1678" alt="image" src="https://github.com/user-attachments/assets/a03e54f9-fe20-41d1-8d6a-deb14ae5d634" />
 <img width="2380" height="1576" alt="image" src="https://github.com/user-attachments/assets/f240b23f-a995-4c60-a718-2fab3d91873e" />
+Semaphore- control max number of threads allowed/permitted. Like connection pools.
 <img width="2720" height="1346" alt="image" src="https://github.com/user-attachments/assets/9b532bbb-3297-4f2e-aa9d-513087bb1a0c" />
 <img width="1398" height="530" alt="image" src="https://github.com/user-attachments/assets/65285342-9355-441a-9fe9-70aeab7c29af" />
 
